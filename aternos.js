@@ -68,15 +68,15 @@ function bindEvents(bot) {
 }
 
 var ayar = {
-  host: "brosgaming.ml", //Sunucu IPnizi giriniz.
-  port: 37271, //Sunucu portunuzu giriniz.
-  username: "zGeronimo", //Sunucuya giriş yapacak bot isminizi girin.
+  host: "", //Sunucu IPnizi giriniz.
+  port: 1, //Sunucu portunuzu giriniz.
+  username: "", //Sunucuya giriş yapacak bot isminizi girin.
   version: false //Burayı değiştirmeyin.
 };
 
 var kayit = {
   authme: "var", //Eğer sunucunuzda AuthMe eklentisi yoksa bu var yazısını yok olarak değiştirin.
-  sifre: "brosgamingzgeronimo1258" //Buraya AuthMe varsa botun giriş yapması için şifreyi girin.
+  sifre: "ege123" //Buraya AuthMe varsa botun giriş yapması için şifreyi girin.
 };
 
 //Yeni Kod:
